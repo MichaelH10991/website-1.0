@@ -17,5 +17,57 @@
       "Autonomous developer",
       "Passion! 🤌"
     ]
+  },
+  "Skills": [
+    {
+      "name": "Node.js",
+      "level": "Experienced",
+      "additionalInfo": "some additonal info, some additonal info, some additonal info, some additonal info, some additonal info, some additonal info, ",
+      "links": [
+        {
+          "name": "api-creator",
+          "link": "https://github.com/MichaelH10991/api-creator"
+        },
+        {
+          "name": "Algorithms",
+          "link": "https://github.com/MichaelH10991/Algorithms"
+        }
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "React.js",
+      "level": "Intermediate",
+      "additionalInfo": "some additonal info",
+      "links": [
+        {
+          "name": "website",
+          "link": "https://github.com/MichaelH10991/website"
+        }
+      ],
+      "rating": 3
+    },
+    {
+      "name": "Mongodb",
+      "level": "Adept",
+      "additionalInfo": "some additonal info",
+      "links": [],
+      "rating": 2
+    },
+    {
+      "name": "Docker",
+      "level": "Adept",
+      "additionalInfo": "some additonal info",
+      "links": [],
+      "rating": 3
+    }
+  ],
+  "Contact": {
+    "address": "",
+    "phone": "07397919444",
+    "email": "michaelhumphries1997@gmail.com",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

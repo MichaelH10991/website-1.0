@@ -2,5 +2,20 @@
   "Header": {
     "title": "Michael Humphries",
     "paragraph": "Web Developer"
+  },
+  "About": {
+    "paragraph": "I am an enthusiastic backend developer who loves writing code and solving difficult problems. I have 5 years full stack web development experience, writing and maintaining attractive and dynamic websites. I'm in my element when I'm writing code using React.js, Node.js, Docker, mongodb and AWS but I'm always looking to expand my knowledge and skills into new areas and technologies. I'm currently learning Typescript in the hopes that this will make me a dangerous developer 😆.",
+    "Why": [
+      "AWS Cloud Practitioner",
+      "I ❤️ cats",
+      "Strong collaborative spirit",
+      "Give me difficult problems"
+    ],
+    "Why2": [
+      "Lots of web dev experience",
+      "Love teaching and leading",
+      "Autonomous developer",
+      "Passion! 🤌"
+    ]
   }
 }
